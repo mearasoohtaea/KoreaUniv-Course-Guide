@@ -16,7 +16,7 @@
 ## 📂 资源列表 (Resources)
 - [x] [个人精简笔记](./Notes/)
 - [ ] [历年考试原题 (Past Exams)](./Exams/) 
-- [ ] [课程课件汇总 (Lecture PPTs)](./PPTs/)
+- [ ] [课程大课件汇总 (Google Drive 文件夹)](https://drive.google.com/drive/folders/1rXcl2MO6d6iAc8aoagZ4P5Hl3d7rPGFm?usp=sharing)
 
 > **注意：** 建议将 PPT 转换为 PDF 格式上传，方便在网页直接预览。
 
