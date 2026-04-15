@@ -18,7 +18,5 @@
 - [ ] [历年考试原题 (Past Exams)](./Exams/) 
 - [ ] [课程大课件汇总 (Google Drive 文件夹)](https://drive.google.com/drive/folders/1rXcl2MO6d6iAc8aoagZ4P5Hl3d7rPGFm?usp=sharing)
 
-> **注意：** 建议将 PPT 转换为 PDF 格式上传，方便在网页直接预览。
-
 ---
 [👈 返回主目录](https://github.com/mearasoohtaea/KoreaUniv-Course-Guide)
