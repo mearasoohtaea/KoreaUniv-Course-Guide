@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **前人栽树，后人乘凉。** 这是一个由高丽大学电子与电气工程系学生 Mearas Chen自发维护的课程资源共享库，旨在打破校内信息不对称，帮助 中国在KU EEE学子 们更高效地学习。
+> **前人栽树，后人乘凉。** 这是一个由高丽大学电子与电气工程系本科学生 Mearas Chen自发维护的课程资源共享库，旨在打破校内信息不对称，帮助 中国在KU EEE 学子们更高效地学习。
 
 ---
 
