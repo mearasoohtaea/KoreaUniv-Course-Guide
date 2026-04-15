@@ -1,4 +1,4 @@
-# 생명과학의 세계 (The World of Life Science)
+# GEBT001 생명과학의 세계 (The World of Life Science)
 
 > **课程类别：** 教养必修 (General Education)
 > **建议年级：** 大一 / Freshman
