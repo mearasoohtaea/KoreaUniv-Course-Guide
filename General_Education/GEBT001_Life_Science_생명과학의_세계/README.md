@@ -1,24 +1,24 @@
-# Life Science: 생명과학의 세계
+# 생명과학의 세계 (The World of Life Science)
 
-### Overview
-This course provides an in-depth understanding of life sciences, including biology, ecology, and environmental science.
+> **课程类别：** 教养必修 (General Education)
+> **建议年级：** 大一 / Freshman
 
-### Objectives
-- Understand the fundamental principles of life science.
-- Explore various ecosystems and the relationships between organisms.
-- Study the impact of humans on the environment.
+## 🧑‍🏫 教授信息 (Professor)
+- **Name:** 이재웅 Professors and others 10
+- **Language:** 韩语授课 (Korean) / 英语授课 (English)
 
-### Topics Covered
-1. Introduction to Biology
-2. Cellular Biology
-3. Genetics and Evolution
-4. Ecology and Ecosystems
-5. Human Impact on the Environment
+## 📝 课程概况 (Course Overview)
+这是一门关于生命科学基础的课程。涵盖了从细胞生物学到生态学的广泛内容。
 
-### Recommended Readings
-- "Biology: A Global Approach" by Neil A. Campbell
-- "Essentials of Ecology" by Molly A. Smith
+## 💡 考试与评价 (Evaluation)
+- **中间考试 (Midterm):** 无
+- **期末考试 (Final):** 90% 
+- **出席 (Attendance):** 10%
+- **作业 (Assignment):** 无
 
-### Contact Information
-For inquiries, please reach out to the course instructor: 
-Email: instructor@example.com
+## 📂 资源目录
+- [复习笔记 (Study Notes)](./Notes/)
+- [核心术语对照表 (Glossary)](./Glossary.md)
+
+---
+[👈 返回主目录](https://github.com/mearasoohtaea/KoreaUniv-Course-Guide)
