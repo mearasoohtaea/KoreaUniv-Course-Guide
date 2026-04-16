@@ -1,6 +1,6 @@
 ## 🚀 学术与生产力工具 (Academic & AI Toolkit)
 
-我们将 AI 使用秘籍与论文写作精华整合在了一个深度文档中，点击下方链接即可查阅：
+我们将 AI 使用秘籍与论文写作精华整合在了一个深度文档中，点击下方链接即可查阅（警惕文档中的任何商业行为）：
 
 * 📌 **[AI 助手指令汇总 & 论文写作实战技巧](https://my.feishu.cn/docx/ZfpTdq4IyoWpe0xe8cMcmWAWn4c?from=from_copylink)**
     * 🤖 **AI 指令集**：包含学术润色、代码纠错、逻辑梳理等的专业 Prompt。
