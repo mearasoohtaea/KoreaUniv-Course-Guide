@@ -10,7 +10,7 @@
 
 ## 💡 考试重点 (Key Topics)
 1. **Classical Mechanics:** Newton's Laws, Work and Energy.
-2. **Rotation:** Torque, Angular Momentum (这是难点).
+2. **Rotation:** Torque, Angular Momentum (没有难点).
 3. **Oscillations and Waves.**
 
 ## 📂 资源列表 (Resources)
