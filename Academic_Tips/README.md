@@ -8,3 +8,6 @@
     * 📂 **模板下载**：文档内附带常用论文格式模板。
 
 > **维护说明**：该文档由飞书驱动，实时更新。建议收藏链接以获取最新版本的指令集。
+
+> ---
+[👈 返回主目录](https://github.com/mearasoohtaea/KoreaUniv-Course-Guide)
