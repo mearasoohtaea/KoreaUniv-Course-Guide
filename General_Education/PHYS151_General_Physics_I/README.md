@@ -14,8 +14,8 @@
 3. **Oscillations and Waves.**
 
 ## 📂 资源列表 (Resources)
-- [x] [个人精简笔记](./Notes/)
-- [ ] [历年考试原题 (Past Exams)](./Exams/) 
+- [x] [个人精简笔记](./Notes/) the note is coming...
+- [ ] [历年考试原题 (Past Exams)](./Exams/) the content is coming...
 - [ ] [课程大课件汇总 (Google Drive 文件夹)](https://drive.google.com/drive/folders/1rXcl2MO6d6iAc8aoagZ4P5Hl3d7rPGFm?usp=sharing)
 
 ---
