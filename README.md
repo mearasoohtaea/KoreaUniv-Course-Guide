@@ -18,7 +18,7 @@
 
 * [x] **General Education / 教养课 (교양)**
 * [ ] **Major Required / 专业必修 (전공필수)**
-* [ ] **Major Elective / 专业选修 (전공선택)**
+* [x] **Major Elective / 专业选修 (전공선택)**
 
 ---
 
