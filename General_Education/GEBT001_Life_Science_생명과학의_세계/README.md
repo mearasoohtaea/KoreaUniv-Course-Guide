@@ -18,6 +18,6 @@
 
 ## 📂 资源目录
 - [复习笔记 (Study Notes)](./Notes/)
-- [课程大课件汇总 (Google Drive 文件夹) ](https://docs.google.com/document/d/1DOoEpUeDFQXPFaAu9HztBgQWzYv-Epqe/edit?usp=sharing&ouid=104445814231940721288&rtpof=true&sd=true)
+- [生命科学族谱大汇总 (Google Drive 文件夹) ](https://docs.google.com/document/d/1DOoEpUeDFQXPFaAu9HztBgQWzYv-Epqe/edit?usp=sharing&ouid=104445814231940721288&rtpof=true&sd=true)排版中，完美版is coming...
 ---
 [👈 返回主目录](https://github.com/mearasoohtaea/KoreaUniv-Course-Guide)
