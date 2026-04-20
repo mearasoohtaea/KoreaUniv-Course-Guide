@@ -17,7 +17,7 @@
 ## 📂 目录结构 (Organization)
 
 * [x] **General Education / 教养课 (교양)**
-* [ ] **Major Required / 专业必修 (전공필수)**
+* [ ] **Major Required / 专业必修 (전공필수)** it is coming...
 * [x] **Major Elective / 专业选修 (전공선택)**
 
 ---
