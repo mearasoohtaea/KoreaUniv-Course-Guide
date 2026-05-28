@@ -17,7 +17,7 @@
 - **作业 (Assignment):** 无
 
 ## 📂 资源目录
-- [复习笔记 (Study Notes)](./Notes/)
-- [生命科学族谱大汇总 (Google Drive 文件夹) ](https://docs.google.com/document/d/1DOoEpUeDFQXPFaAu9HztBgQWzYv-Epqe/edit?usp=sharing&ouid=104445814231940721288&rtpof=true&sd=true)排版中，完美版is coming...
+- [生命科学历年真题开源只能学习系统](https://my-bio-quiz-niubidezhongguoren.streamlit.app/)
+- [生命科学族谱大汇总 (Google Drive 文件夹) ](https://drive.google.com/drive/folders/1MH5UKp5TFATSo-Yi9J7XO2kU_kRSH2qV?usp=sharing)
 ---
 [👈 返回主目录](https://github.com/mearasoohtaea/KoreaUniv-Course-Guide)
