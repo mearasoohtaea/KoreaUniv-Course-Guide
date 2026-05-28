@@ -17,7 +17,7 @@
 - **作业 (Assignment):** 无
 
 ## 📂 资源目录
-- [生命科学历年真题开源只能学习系统](https://my-bio-quiz-niubidezhongguoren.streamlit.app/)
+- [生命科学历年真题开源智能学习系统](https://my-bio-quiz-niubidezhongguoren.streamlit.app/)
 - [生命科学族谱大汇总 (Google Drive 文件夹) ](https://drive.google.com/drive/folders/1MH5UKp5TFATSo-Yi9J7XO2kU_kRSH2qV?usp=sharing)
 ---
 [👈 返回主目录](https://github.com/mearasoohtaea/KoreaUniv-Course-Guide)
